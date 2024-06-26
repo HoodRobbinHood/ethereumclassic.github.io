@@ -93,7 +93,7 @@ const locales = {
     dayJsImport: "pt",
   },
   ru: {
-    name: "русский",
+    name: "Русский",
     enabled: true,
     dayJsImport: "ru",
   },
